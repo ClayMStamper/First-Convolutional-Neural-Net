@@ -2,6 +2,8 @@
   <dictionary name="clays">
     <words>
       <w>convolutional</w>
+      <w>crossentropy</w>
+      <w>relu</w>
     </words>
   </dictionary>
 </component>
