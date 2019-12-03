@@ -3,6 +3,7 @@
     <words>
       <w>convolutional</w>
       <w>crossentropy</w>
+      <w>overfitting</w>
       <w>relu</w>
     </words>
   </dictionary>
